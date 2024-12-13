@@ -1,0 +1,332 @@
+[
+  {
+    "title": "Product Detail",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/product-detail-320x480/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": ["animate.css", "Javascript", "HTML", "CSS"],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Ad interactivo ideal para mostrar en detalle las partes de tu producto."
+  },
+  {
+    "title": "Tinder Products",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/tinder-products/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": ["Javascript", "HTML", "CSS", "Hammer.js", "animate.css"],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Simulador de la aplicación Tinder donde el cliente hace match con tus productos para luego proceder a la página, con la opción de trackear qué productos han conseguido más likes a través de una base de datos."
+  },
+  {
+    "title": "Drag and Drop Cards",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/drag-drop-cards-320x480/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Hammer.js",
+      "animate.css",
+      "Swiper"
+    ],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Rich Media destinado a exponer distintas caracteristicas de un producto en cada carta que el usuario vaya pasando."
+  },
+  {
+    "title": "Interactive Cube",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Interactive-Cube/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Rich Media similar al cubo, pero con interactividad del usuario para pasar entre las distintas caras del cubo."
+  },
+  {
+    "title": "Vertical scroller",
+    "link": "https://369.ad/mediakit/adidas/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "observations": "Rich Media para seleccionar y desplazarse entre distintos productos."
+  },
+  {
+    "title": "Scratch and Reveal",
+    "link": "https://369.ad/mediakit/Scratch-Te/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Anuncio de raspar y revelar un premio o beneficio del otro lado."
+  },
+  {
+    "title": "Drink Frost",
+    "link": "https://369.ad/mediakit/Fernet-branca/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "height": "484px",
+    "observations": "Rich Media con el objetivo de hacer click repetidas veces en el mismo, para que cada vez se genere mas escarcha, destinado a bebidas o productos de consumo frios."
+  },
+  {
+    "title": "Drink Serving",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Drink-serving/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Rich Media que consiste en servir una bebida sabrosa a partir de sus ingredientes."
+  },
+  {
+    "title": "Aviador",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Avion/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Rich Media con el objetivo de hacer click cuando el avión pase por el logo de tu empresa."
+  },
+  {
+    "title": "Blackjack",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Blackjack/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "observations": "Rich Media simulador de una partida de Blackjack para ganar y avanzar a la página web."
+  },
+  {
+    "title": "Poker",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Poker/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "observations": "Partida de Poker en la que te encontrás en la mano antes del último flop, apostás all-in y terminás ganando, para continuar a la página."
+  },
+  {
+    "title": "Brackets",
+    "link": "https://369.ad/mediakit/landing-rich-medias/cup-brackets/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 970x250",
+    "observations": "Brackets de torneo deportivo para hacer predicciones del ganador y continuar luego al sitio web a traves del botón de Call to Action."
+  },
+  {
+    "title": "Live Odds",
+    "link": "https://369.ad/mediakit/live-odds/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Rich media que utiliza APIs para obtener información en tiempo real de estadísticas de partidos y el usuario elige el cuadro que cree va a ganar."
+  },
+  {
+    "title": "Survey",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Survey-320x480/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Anuncio destinado a encuestas o epoca de campañas políticas donde el usuario vota y a continuación es presentado con el total de votos para cada opción."
+  },
+  {
+    "title": "Sandwich creator",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/sandwich-serving/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "height": "484px",
+    "observations": "Anuncio destinado principalmente a empresas de comida, en este caso elegir tus condimentos preferidos para tu sandwich preferido."
+  },
+  {
+    "title": "Weather",
+    "link": "https://369.ad/mediakit/nestle320x480/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Anuncio donde a través de una API se muestra la temperatura de un lugar determinado, destinado, por ejemplo, a empresas de heeladería."
+  },
+  {
+    "title": "Calculadora de préstamos",
+    "link": "https://369.ad/mediakit/prestamo/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Calculadora de préstamos donde ingresás el monto a solicitar, los meses a pagar y el anuncio te dirá cuanto se debe pagar de intereses por mes."
+  },
+  {
+    "title": "Planes",
+    "link": "https://369.ad/mediakit/Planes-320X480/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Rich Media para financieras donde se ofrece al cliente distintos planes con beneficios dependiendo del plan."
+  },
+  {
+    "title": "Reproductor MP3",
+    "link": "https://369.ad/mediakit/MP3/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Anuncio de reproductor musical con distintas pistas."
+  },
+  {
+    "title": "Countdown",
+    "link": "https://369.ad/mediakit/miller-countdown-diciembre2020/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Rich Media destinado principalmente a eventos, donde se hace una cuenta regresiva de dicho evento."
+  },
+  {
+    "title": "Vinyl Selector",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Vinyl-selector/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "observations": "Anuncio enfocado principalment a eventos musicales donde el usuario escoge entre temas a promocionar."
+  },
+  {
+    "title": "Memory",
+    "link": "https://369.ad/mediakit/audimemory/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Juego de Memory clásico en el que tenés que unir las mismas imagenes para luego pasar al botón de Call to Action."
+  },
+  {
+    "title": "Car Driver",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/Car-driver/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Rich Media que consiste en hacer click cuando el auto pase por la estación de tu marca para luego proceder al link de destino."
+  },
+
+  {
+    "title": "Selector de Modelos",
+    "link": "https://369.ad/mediakit/audi-selector/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "height": "484px",
+    "observations": "Rich Media de selector de modelos de distintos tipos de vehiculos."
+  },
+  {
+    "title": "Selector de Colores",
+    "link": "https://369.ad/mediakit/fiat/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "height": "484px",
+    "observations": "Rich Media de selector de colores del mismo modelo de vehiculos."
+  },
+  {
+    "title": "Selector de partes",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/CFMoto-320x480/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 970x250",
+    "observations": "Anuncio de un modelo de vehiculo donde se puede conocer las diferentes caratcerísticas para generar awareness de dicho modelo, resaltando sus atributos, acompañado de videos de cada parte."
+  },
+  {
+    "title": "Selector",
+    "link": "https://369.ad/mediakit/landing-rich-medias/Accuracy-bipod-selector/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Rich Media para seleccionar entre diferentes productos, ver su detalle y hacer click en comprar."
+  },
+  {
+    "title": "Slider",
+    "link": "https://369.ad/mediakit/Bipod-acuracy-slide/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "observations": "Slides de distintos productos para hacer click en el que elijas."
+  },
+
+  {
+    "title": "Reproductor de video",
+    "link": "https://369.ad/mediakit/armani/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Rich Media con reproductor de video para eventos y demás."
+  },
+  {
+    "title": "Cubo",
+    "link": "https://369.ad/mediakit/budcubo2/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Cubo 3D giratorio para colocar 4 imágenes distintas sobre tu empresa/producto."
+  },
+
+  {
+    "title": "Store locator",
+    "link": "https://369.ad/mediakit/devoto-santa-monica/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "observations": "Anuncio basado en mapa con la ubicación de tus tiendas en una región determinada."
+  },
+  {
+    "title": "Cross Slider",
+    "link": "https://369.ad/mediakit/cross-slider-shell/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "height": "484px",
+    "observations": "Rich Media donde se puede elegir entre dos opciones divididas por un cross-slider."
+  },
+  {
+    "title": "Video Timestamp",
+    "link": "https://369.ad/mediakit/landing-rich-medias-2/video-casa-timestamp/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250",
+    "observations": "Anuncio con video donde en determinado tiempo se muestran productos a exhibir junto a un ícono para saber más sobre dicho producto."
+  },
+  {
+    "title": "Unir los puntos",
+    "link": "https://369.ad/mediakit/landing-rich-medias/real-state/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480, 300x250, 970x250",
+    "observations": "Unir los puntos en orden para dibujar una forma en el anuncio, una vez unidos todos los puntos, aparece una imagen a gusto."
+  },
+  {
+    "title": "Paint Roller",
+    "link": "https://369.ad/mediakit/landing-rich-medias/Paint-wall/index.html",
+    "type": "HTML5",
+    "categories": [],
+    "tools": [],
+    "sizes": "300x600, 320x480",
+    "observations": "Rich Media que consiste en pintar la pared con distintos colores, enfocado a empresas de pintura."
+  }
+]
